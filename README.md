@@ -8,7 +8,7 @@
       <img src="https://github.com/user-attachments/assets/95910f51-2f74-47b3-a972-a5b502fee338" alt="Brain" width="100%" />
     </td>
     <td width="100%">
-      <b>Hey there! I'm Mayank</b><br><br>
+      <b>Hey there! I'm B</b><br><br>
       I'm a computer science student diving deep into software development.<br><br>
 By day, I'm mastering data structures and algorithms, and writing code in <b>Python, C, and C++</b>.<br><br>
 When I'm not building web applications, you can usually find me solving a 3x3 Rubik's cube or tracking the latest IPL match stats.
@@ -17,24 +17,6 @@ When I'm not building web applications, you can usually find me solving a 3x3 Ru
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-### 🔗 Top Projects (built to avoid manual labor)
-
-<table>
-  <tr>
-    <td width="80%">
-      <ul>
-        <li><a href="https://github.com/mayankrajput00/citycare-hospital"><b>CITYCARE</b></a> &nbsp; Secure user login and backend validation, because some code needs to self-destruct gracefully.</li>
-        <br>
-        <li><a href="https://github.com/mayankrajput00/words-of-god"><b>WORDS OF GOD</b></a> &nbsp; A collection of Python scripts that run purely on faith, caffeine, and a lot of print statements
-      </ul>
-    </td>
-    <td width="20%">
-      <!-- Yahan apne Fire image ka GitHub wala link daalein -->
-      <img src="https://github.com/user-attachments/assets/e063d361-b248-4be6-8273-42761f950efe" alt="Fire" width="100%" />
     </td>
   </tr>
 </table>
