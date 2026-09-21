@@ -1,25 +1,10 @@
 ![Background](bcg.jpg)
 
-## Hi there 👋
-
-<div align="center">
-  <!-- Yahan apne Banner image ka GitHub wala link daalein -->
-  <img src="https://github.com/user-attachments/assets/a8994ae3-9488-4322-ba61-28498e8c0e31" alt="Banner" width="100%" height="250" />
-</div>
-
-<hr>
-<h1 align="center">
-  Namaste <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mayank
-</h1>
-
-<hr>
-
-### 🔗 Know About Me
+### Know About Me
 
 <table>
   <tr>
     <td width="30%">
-      <!-- Yahan apne Brain image ka GitHub wala link daalein -->
       <img src="https://github.com/user-attachments/assets/95910f51-2f74-47b3-a972-a5b502fee338" alt="Brain" width="100%" />
     </td>
     <td width="100%">
