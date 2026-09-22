@@ -1,15 +1,5 @@
 ## About Me
 
-```yaml
-Name    : 
-Company : 
-Location: 
-Role    : 
-Learning: 
-Hobby   : 
-Fuel    : 
-```
-
 ## Tech Stack
 
 <table>
@@ -19,9 +9,7 @@ Fuel    :
     </td>
     <td width="100%">
       
-![Skills](https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark&perline=5)
-
-![Skills](https://skillicons.dev/icons?i=vscode,linux,github,git,vercel&theme=dark&perline=5)
+![Skills](https://skillicons.dev/icons?i=python,js,ts,java,php,html,css,nodejs,mongodb,mysql,docker,vercel,cloudflare,git,github,vscode,linux,ubuntu,arch,discordjs&theme=dark&perline=5)
     </td>
   </tr>
 </table>
