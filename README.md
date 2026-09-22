@@ -8,12 +8,12 @@
       <img src="https://github.com/user-attachments/assets/95910f51-2f74-47b3-a972-a5b502fee338" alt="Brain" width="100%" />
     </td>
     <td width="100%">
-      <b>Hey there! I'm B</b><br><br>
+      <b>Hey there! I'm b</b><br><br>
       I'm a computer science student diving deep into software development.<br><br>
 By day, I'm mastering data structures and algorithms, and writing code in <b>Python, C, and C++</b>.<br><br>
 When I'm not building web applications, you can usually find me solving a 3x3 Rubik's cube or tracking the latest IPL match stats.
       <br><br>
-      <b>⚙️ Tech Stack:</b><br>
+      <b>Tech Stack:</b><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -21,7 +21,7 @@ When I'm not building web applications, you can usually find me solving a 3x3 Ru
   </tr>
 </table>
 
-### 🔗 Connect
+### Connect
 
 <div align="center">
   <a href="https://github.com/mayankrajput00"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -38,8 +38,8 @@ When I'm not building web applications, you can usually find me solving a 3x3 Ru
 
 <br>
 
-### 🔗 Contribution
+### Contribution
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankrajput00&theme=tokyo-night" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vbswhtb&theme=tokyo-night" alt="Contribution Graph" width="100%" />
 </div>
