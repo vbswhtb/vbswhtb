@@ -12,4 +12,17 @@
       </tr>
       </table>
 
+  <table>
+  <tr>
+    <td width="80%">
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=h7oqtfgvT64"><b>WORDS OF GOD</b></a> &nbsp; Bla Bla Bla
+      </ul>
+    </td>
+    <td width="20%">
+      <img src="https://github.com/user-attachments/assets/e063d361-b248-4be6-8273-42761f950efe" alt="Fire" width="100%" />
+    </td>
+  </tr>
+</table>
+
   ![Profile Views](https://komarev.com/ghpvc/?username=vbswhtb&style=for-the-badge&color=7B9EF5&label=PROFILE+VIEWS)
