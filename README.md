@@ -1,5 +1,3 @@
-![Background](bcg.jpg)
-
 ## About Me
 
 ```yaml
