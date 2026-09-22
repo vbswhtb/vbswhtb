@@ -8,15 +8,8 @@
     <td width="100%">
   <b>### Tech Stack :</b><br>
 
-**Languages**
 
 ![Skills](https://skillicons.dev/icons?i=js,python,html,css&theme=dark&perline=4)
-
-**Databases**
-
-![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,aws,firebase&theme=dark&perline=7)
-
-**Tools**
 
 ![Skills](https://skillicons.dev/icons?i=vscode,linux,git,vercel&theme=dark&perline=4)
     </td>
