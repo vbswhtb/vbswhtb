@@ -3,13 +3,13 @@
 ## About Me
 
 ```yaml
-Name    : Yerikho A. Effendi
-Company : PT Kediri Chemical Abadi
-Location: Kediri, East Java, Indonesia
-Role    : Full Stack Developer + AI Engineer
-Learning: Machine Learning + Cloud Architecture
-Hobby   : Exploring new tech + open source
-Fuel    : Coffee + Music
+Name    : 
+Company : 
+Location: 
+Role    : 
+Learning: 
+Hobby   : 
+Fuel    : 
 ```
 
 ## Tech Stack
