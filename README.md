@@ -1,5 +1,3 @@
-## About Me
-
 ## Tech Stack
 
 <table>
@@ -9,9 +7,9 @@
     </td>
     <td width="100%">
       
-![Skills](https://skillicons.dev/icons?i=python,js,ts,java,php,html,css,nodejs,mongodb,mysql,docker,vercel,cloudflare,git,github,vscode,linux,ubuntu,arch,discordjs&theme=dark&perline=5)
-    </td>
-  </tr>
-</table>
+  ![Skills](https://skillicons.dev/icons?i=python,js,ts,java,php,html,css,nodejs,mongodb,mysql,docker,vercel,cloudflare,git,github,vscode,linux,ubuntu,arch,discordjs&theme=dark&perline=5)
+      </td>
+      </tr>
+      </table>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vbswhtb&style=for-the-badge&color=7B9EF5&label=PROFILE+VIEWS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=vbswhtb&style=for-the-badge&color=7B9EF5&label=PROFILE+VIEWS)
