@@ -1,7 +1,5 @@
 ![Background](bcg.jpg)
 
-### About Me
-
 <table>
   <tr>
     <td width="30%">
@@ -13,7 +11,7 @@
 By day, I'm mastering data structures and algorithms, and writing code in <b>Python, C, and C++</b>.<br><br>
 When I'm not building web applications, you can usually find me solving a 3x3 Rubik's cube or tracking the latest IPL match stats.
       <br><br>
-      <b>Tech Stack:</b><br>
+      <b>Tech Stack :</b><br>
       <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,mongodb,vscode,linux,&theme=dark" />
     </td>
   </tr>
