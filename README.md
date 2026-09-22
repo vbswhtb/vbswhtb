@@ -11,9 +11,5 @@
       </td>
       </tr>
       </table>
-      
-  <div align="center">
-    <img src="https://www.sekolahnakal.xyz/graph?username=vbswhtb&theme=tokyo-night" alt="Contribution Graph" width="100%" />
-  </div>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=vbswhtb&style=for-the-badge&color=7B9EF5&label=PROFILE+VIEWS)
