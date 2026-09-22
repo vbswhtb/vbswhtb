@@ -7,7 +7,7 @@
     </td>
     <td width="100%">
       
-  ![Skills](https://skillicons.dev/icons?i=python,js,ts,java,php,html,css,nodejs,mongodb,mysql,docker,vercel,cloudflare,git,github,vscode,linux,ubuntu,arch,discordjs&theme=dark&perline=5)
+  ![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,mongodb,redis,graphql,git,docker,cloudflare,github,vscode,linux,arch,ubuntu,discordjs,vercel&theme=dark&perline=5)
       </td>
       </tr>
       </table>
