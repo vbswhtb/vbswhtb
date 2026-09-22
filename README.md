@@ -6,22 +6,32 @@
       <img src="https://github.com/user-attachments/assets/95910f51-2f74-47b3-a972-a5b502fee338" alt="Brain" width="100%" />
     </td>
     <td width="100%">
-  <b>### Tech Stack :</b><br>
-      **Languages**
 
-![Skills](https://skillicons.dev/icons?i=js,python,java,php,html,css&theme=dark&perline=7)
+      <b>Tech Stack :</b>
+      <br><br>
 
-**Frameworks**
+      <b>Languages</b>
+      <br>
+      <img src="https://skillicons.dev/icons?i=js,python,java,php,html,css&theme=dark&perline=7" alt="Languages" />
 
-![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind,fastapi&theme=dark&perline=7)
+      <br><br>
 
-**Databases**
+      <b>Frameworks</b>
+      <br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind,fastapi&theme=dark&perline=7" alt="Frameworks" />
 
-![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,aws,firebase&theme=dark&perline=7)
+      <br><br>
 
-**Tools**
+      <b>Databases</b>
+      <br>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,aws,firebase&theme=dark&perline=7" alt="Databases" />
 
-![Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman,vercel&theme=dark&perline=7)
+      <br><br>
+
+      <b>Tools</b>
+      <br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman,vercel&theme=dark&perline=7" alt="Tools" />
+
     </td>
   </tr>
 </table>
