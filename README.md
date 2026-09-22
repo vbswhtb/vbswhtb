@@ -14,7 +14,7 @@ By day, I'm mastering data structures and algorithms, and writing code in <b>Pyt
 When I'm not building web applications, you can usually find me solving a 3x3 Rubik's cube or tracking the latest IPL match stats.
       <br><br>
       <b>Tech Stack:</b><br>
-      <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,mongodb,git,github,vscode,linux,&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,mongodb,vscode,linux,&theme=dark" />
     </td>
   </tr>
 </table>
