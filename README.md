@@ -6,12 +6,7 @@
       <img src="https://github.com/user-attachments/assets/95910f51-2f74-47b3-a972-a5b502fee338" alt="Brain" width="100%" />
     </td>
     <td width="100%">
-  <b>Hai! Aku b</b><br><br>
-  Aku seorang <b>Website Developer</b> yang sedang mendalami dunia pengembangan perangkat lunak.<br><br>
-  Di siang hari, aku fokus menguasai struktur data dan algoritma, serta menulis kode dalam <b>Python, C, dan C++</b>.<br><br>
-  Saat sedang tidak membangun aplikasi web, biasanya kamu bisa menemukanku sedang <b>bermain rubik</b> atau <b>menonton film seharian</b>.
-  <br><br>
-  <b>Tech Stack :</b><br>
+  <b>### Tech Stack :</b><br>
       <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,mongodb,vscode,linux,&theme=dark" />
     </td>
   </tr>
