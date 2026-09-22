@@ -6,9 +6,9 @@
       <img src="https://github.com/user-attachments/assets/95910f51-2f74-47b3-a972-a5b502fee338" alt="Brain" width="100%" />
     </td>
     <td width="100%">
-  <b>Hey there! I'm b</b>
+  <b>Hey there! I'm b</b><br>
 
-  <b> saya adaladah seora<b>
+  <b> saya adaladah seora<b><br>
   
   <b>Tech Stack:</b><br>
       <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,mongodb,vscode,linux,&theme=dark" />
