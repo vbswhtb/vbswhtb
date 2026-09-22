@@ -8,7 +8,6 @@
     <td width="100%">
   <b>### Tech Stack :</b><br>
 
-
 ![Skills](https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark&perline=5)
 
 ![Skills](https://skillicons.dev/icons?i=vscode,linux,git,vercel&theme=dark&perline=4)
