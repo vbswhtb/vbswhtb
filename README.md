@@ -7,7 +7,21 @@
     </td>
     <td width="100%">
   <b>### Tech Stack :</b><br>
-      <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,mongodb,vscode,linux,&theme=dark" />
+      **Languages**
+
+![Skills](https://skillicons.dev/icons?i=js,ts,python,java,php,html,css&theme=dark&perline=7)
+
+**Frameworks**
+
+![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind,fastapi&theme=dark&perline=7)
+
+**Databases**
+
+![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,aws,firebase&theme=dark&perline=7)
+
+**Tools**
+
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman,vercel&theme=dark&perline=7)
     </td>
   </tr>
 </table>
