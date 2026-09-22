@@ -18,3 +18,13 @@ When I'm not building web applications, you can usually find me solving a 3x3 Ru
 </table>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vbswhtb&style=for-the-badge&color=7B9EF5&label=PROFILE+VIEWS)
+
+```yaml
+Name    : Yerikho A. Effendi
+Company : PT Kediri Chemical Abadi
+Location: Kediri, East Java, Indonesia
+Role    : Full Stack Developer + AI Engineer
+Learning: Machine Learning + Cloud Architecture
+Hobby   : Exploring new tech + open source
+Fuel    : Coffee + Music
+```
