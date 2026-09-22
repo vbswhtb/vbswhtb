@@ -14,7 +14,7 @@ By day, I'm mastering data structures and algorithms, and writing code in <b>Pyt
 When I'm not building web applications, you can usually find me solving a 3x3 Rubik's cube or tracking the latest IPL match stats.
       <br><br>
       <b>Tech Stack:</b><br>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,mongodb,docker,git,github,vscode,linux,&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,mongodb,git,github,vscode,linux,&theme=dark" />
     </td>
   </tr>
 </table>
@@ -41,3 +41,5 @@ When I'm not building web applications, you can usually find me solving a 3x3 Ru
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vbswhtb&theme=tokyo-night" alt="Contribution Graph" width="100%" />
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YerikhoArfensiasEffendi&style=for-the-badge&color=7B9EF5&label=PROFILE+VIEWS)
