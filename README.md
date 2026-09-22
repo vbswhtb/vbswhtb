@@ -1,6 +1,6 @@
 ![Background](bcg.jpg)
 
-### Know About Me
+### About Me
 
 <table>
   <tr>
@@ -14,9 +14,7 @@ By day, I'm mastering data structures and algorithms, and writing code in <b>Pyt
 When I'm not building web applications, you can usually find me solving a 3x3 Rubik's cube or tracking the latest IPL match stats.
       <br><br>
       <b>Tech Stack:</b><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&vCenter=true&width=435&lines=Python+%7C+C+%7C+C%2B%2B;Data+Structures+%26+Algorithms;Web+Development" />
     </td>
   </tr>
 </table>
