@@ -16,7 +16,7 @@
   <tr>
     <td width="80%">
       <ul>
-        <li><a href="https://www.youtube.com/watch?v=h7oqtfgvT64"><b>THE DEVIL FROM HELL.</b></a> &nbsp; Bla Bla Bla
+        <li><a href="https://www.youtube.com/watch?v=h7oqtfgvT64"><b>THE DEVIL FROM HELL</b></a> &nbsp; - Bla Bla Bla
       </ul>
     </td>
     <td width="20%">
