@@ -9,7 +9,7 @@
   <b>### Tech Stack :</b><br>
       **Languages**
 
-![Skills](https://skillicons.dev/icons?i=js,ts,python,java,php,html,css&theme=dark&perline=7)
+![Skills](https://skillicons.dev/icons?i=js,python,java,php,html,css&theme=dark&perline=7)
 
 **Frameworks**
 
