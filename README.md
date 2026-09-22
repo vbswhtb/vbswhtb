@@ -9,16 +9,16 @@
   <b>### Tech Stack :</b><br>
 
 **Languages**
+
 ![Skills](https://skillicons.dev/icons?i=js,python,html,css&theme=dark&perline=7)
 
-**Frameworks**
-![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind,fastapi&theme=dark&perline=7)
-
 **Databases**
+
 ![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,aws,firebase&theme=dark&perline=7)
 
 **Tools**
-![Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman,vercel&theme=dark&perline=7)
+
+![Skills](https://skillicons.dev/icons?i=git,vscode,linux,vercel&theme=dark&perline=7)
     </td>
   </tr>
 </table>
