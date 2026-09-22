@@ -19,27 +19,4 @@ When I'm not building web applications, you can usually find me solving a 3x3 Ru
   </tr>
 </table>
 
-### Connect
-
-<div align="center">
-  <a href="https://github.com/mayankrajput00"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/johnhonks"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:john_thomes12@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
-  <a href="mailto:gadgethomes.shop@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
-<br>
-
-> Code is never finished. It only becomes slightly less terrible over time.<br><br>
-> Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.
-
-<br>
-
-### Contribution
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vbswhtb&theme=tokyo-night" alt="Contribution Graph" width="100%" />
-</div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YerikhoArfensiasEffendi&style=for-the-badge&color=7B9EF5&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=vbswhtb&style=for-the-badge&color=7B9EF5&label=PROFILE+VIEWS)
