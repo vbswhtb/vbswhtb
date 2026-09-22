@@ -13,7 +13,7 @@
       </table>
       
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vbswhtb&theme=tokyo-night" alt="Contribution Graph" width="100%" />
+    <img src="https://nizzzstore.vercel.app/graph?username=vbswhtb&theme=tokyo-night" alt="Contribution Graph" width="100%" />
   </div>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=vbswhtb&style=for-the-badge&color=7B9EF5&label=PROFILE+VIEWS)
