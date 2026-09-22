@@ -6,7 +6,7 @@
       <img src="https://github.com/user-attachments/assets/95910f51-2f74-47b3-a972-a5b502fee338" alt="Brain" width="100%" />
     </td>
     <td width="100%">
-  <b>Hai! Aku b</b> 👋<br><br>
+  <b>Hey there! I'm b</b> 👋<br><br>
 
   <b>🧑‍💻 Nama:</b> b<br>
   <b>💼 Pekerjaan:</b> Website Developer<br>
