@@ -1,7 +1,5 @@
 ![Background](bcg.jpg)
 
----
-
 ## About Me
 
 ```yaml
@@ -14,8 +12,6 @@ Hobby   : Exploring new tech + open source
 Fuel    : Coffee + Music
 ```
 
----
-
 ## Tech Stack
 
 <table>
@@ -24,6 +20,7 @@ Fuel    : Coffee + Music
       <img src="https://github.com/user-attachments/assets/95910f51-2f74-47b3-a972-a5b502fee338" alt="Brain" width="100%" />
     </td>
     <td width="100%">
+      
 ![Skills](https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark&perline=5)
 
 ![Skills](https://skillicons.dev/icons?i=vscode,linux,git,vercel&theme=dark&perline=4)
