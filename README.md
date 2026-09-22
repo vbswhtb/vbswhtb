@@ -10,7 +10,7 @@
 
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=js,python,html,css&theme=dark&perline=7)
+![Skills](https://skillicons.dev/icons?i=js,python,html,css&theme=dark&perline=4)
 
 **Databases**
 
@@ -18,7 +18,7 @@
 
 **Tools**
 
-![Skills](https://skillicons.dev/icons?i=git,vscode,linux,vercel&theme=dark&perline=7)
+![Skills](https://skillicons.dev/icons?i=vscode,linux,git,vercel&theme=dark&perline=4)
     </td>
   </tr>
 </table>
