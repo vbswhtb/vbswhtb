@@ -1,5 +1,23 @@
 ![Background](bcg.jpg)
 
+---
+
+## 💫 About Me
+
+![Coding](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
+
+```yaml
+Name    : Yerikho A. Effendi
+Company : PT Kediri Chemical Abadi
+Location: Kediri, East Java, Indonesia
+Role    : Full Stack Developer + AI Engineer
+Learning: Machine Learning + Cloud Architecture
+Hobby   : Exploring new tech + open source
+Fuel    : Coffee + Music
+```
+
+---
+
 <table>
   <tr>
     <td width="30%">
